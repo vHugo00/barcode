@@ -4,3 +4,4 @@ Agiliza o processo de registro e monitoramento, identificando e rastreando produ
 Além disso, os dados são registrados nos sistemas MES Athena e podem ser acompanhados em tempo real por meio de Grafanas. 
 
 29/01 - Foi implementado para novas areas do Packging, leitor de tampas de latas e forncecedores
+30/05 - Finalizaçao do projeto, enviando e coletando dados automaticamente
