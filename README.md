@@ -7,3 +7,4 @@ Além disso, os dados são registrados nos sistemas MES Athena e podem ser acomp
 30/05 - Finalizaçao do projeto, enviando e coletando dados automaticamente
 07/08 - Iniciando testes em linha
 13/09 - Atualização de dados e melhorias
+14/09 - Orçamento para melhorias de equipamentos
