@@ -5,5 +5,5 @@ Além disso, os dados são registrados nos sistemas MES Athena e podem ser acomp
 
 29/01 - Foi implementado para novas areas do Packging, leitor de tampas de latas e forncecedores
 30/05 - Finalizaçao do projeto, enviando e coletando dados automaticamente
-
+07/08 - Iniciando testes em linha
 13/09 - Atualização de dados e melhorias
