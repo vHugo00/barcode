@@ -3,5 +3,5 @@ Nosso sistema revoluciona o controle de latas com defeitos através de leitura d
 Agiliza o processo de registro e monitoramento, identificando e rastreando produtos.
 Além disso, os dados são registrados nos sistemas MES Athena e podem ser acompanhados em tempo real por meio de Grafanas. 
 
-29/01 - Foi implementado para novas areas do Packging, leitor de tampas de latas e forncecedores
+29/01 - Foi implementado para novas areas do Packging, leitor de tampas de latas e 
 
