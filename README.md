@@ -1,4 +1,4 @@
 # BARCODE
-Nosso sistema revoluciona o controle de latas com defeitos através de leitura de códigos de barras e QR Codes.
+Sistema desenvolvido para o rastreio de paletes de latas através de leitura de QR Codes.
 Agiliza o processo de registro e monitoramento, identificando e rastreando produtos.
-Além disso, os dados são registrados nos sistemas MES Athena e podem ser acompanhados em tempo real por meio de Grafanas. 
+Além disso, os dados são registrados em bancos de dados MySQL. 
